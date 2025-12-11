@@ -29,13 +29,13 @@ node_pairs.txt: contains all possible stations pairs coordinates for the nodes\
 node_row_longest.csv: contains coordinates for the two node stations which create the longest distance station pair\
 node_row_shortest.csv: contains coordinates for the two node stations which create the shortest distance station pair\
 nodes.csv: contains the coordinates for each node station\
-nodess.kml: file used to extract coordinates for nodes.csv\
+nodess.kml: file used to extract coordinates for nodes.csv
 
 ## Figures
 
 20percent.png: figure which shows the extent of the San Andreas fault system for report\
 OV_seismo_map.ps.png: orignal map which shows Owens Valley seismicity for report\
-stations.jpg: CalTopo map with broadbands and nodes plotted for report\
+stations.jpg: CalTopo map with broadbands and nodes plotted for report
 
 ## Maps
 
@@ -46,7 +46,7 @@ elevation.cpt: color file for figures create in notebook\
 gmt.history: I dunno\
 nodes_map_friend_jup.sh: plots all node station pairs lines which works in jupyter notebook\
 nodes_map_jup.sh: plots all node stations which works in jupyter notebook\
-nodes_map_limit_jup.sh: plots all node station pairs and the longest and shortest station pairs\
+nodes_map_limit_jup.sh: plots all node station pairs and the longest and shortest station pairs
 
 ## Report
 
@@ -57,7 +57,7 @@ Ashley_Stroup_finalproject.log: same as above\
 Ashley_Stroup_finalproject.pdf: the pdf file of my Latex file. This has all my figures that could not upload to the GitHub due to size\
 Ashley_Stroup_finalproject.tex: the file I made!!!\
 apa-good.bst: the style of citation I used\
-final_project_bib.bib: my citation bibtex file\
+final_project_bib.bib: my citation bibtex file
 
 # Tah-Dah!
 
