@@ -1,0 +1,351 @@
+\begin{thebibliography}{40}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Barmin et~al.(2001)Barmin, Ritzwoller, \& Levshin}]{barmin_fast_2001}
+Barmin, M., Ritzwoller, M., \& Levshin, A. (2001).
+\newblock A fast and reliable method for surface wave tomography.
+\newblock {\em Pure and applied Geophysics\/}, {\em 158\/}(8), 1351--1375.
+\newblock Publisher: Springer.
+
+\bibitem[{Bensen et~al.(2007)Bensen, Ritzwoller, Barmin, Levshin, Lin,
+  Moschetti, Shapiro, \& Yang}]{bensen_processing_2007}
+Bensen, G.~D., Ritzwoller, M.~H., Barmin, M.~P., Levshin, A.~L., Lin, F.,
+  Moschetti, M.~P., Shapiro, N.~M., \& Yang, Y. (2007).
+\newblock Processing seismic ambient noise data to obtain reliable broad-band
+  surface wave dispersion measurements.
+\newblock {\em Geophysical Journal International\/}, {\em 169\/}(3),
+  1239--1260.
+\newline\urlprefix\url{https://academic.oup.com/gji/article-lookup/doi/10.1111/j.1365-246X.2007.03374.x}
+
+\bibitem[{Berg et~al.(2020)Berg, Lin, Allam, Schulte‐Pelkum, Ward, \&
+  Shen}]{berg_shear_2020}
+Berg, E.~M., Lin, F., Allam, A., Schulte‐Pelkum, V., Ward, K.~M., \& Shen, W.
+  (2020).
+\newblock Shear {Velocity} {Model} of {Alaska} {Via} {Joint} {Inversion} of
+  {Rayleigh} {Wave} {Ellipticity}, {Phase} {Velocities}, and {Receiver}
+  {Functions} {Across} the {Alaska} {Transportable} {Array}.
+\newblock {\em Journal of Geophysical Research: Solid Earth\/}, {\em 125\/}(2),
+  e2019JB018582.
+\newline\urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JB018582}
+
+\bibitem[{Busby(2013)}]{busby_birth_2013}
+Busby, C.~J. (2013).
+\newblock Birth of a plate boundary at ca. 12 {Ma} in the {Ancestral}
+  {Cascades} arc, {Walker} {Lane} belt of {California} and {Nevada}.
+\newblock {\em Geosphere\/}, {\em 9\/}(5), 1147--1160.
+\newline\urlprefix\url{https://doi.org/10.1130/GES00928.1}
+
+\bibitem[{Calò et~al.(2023)Calò, Di~Luccio, Persaud, \&
+  Ventura}]{calo_ambient_2023}
+Calò, M., Di~Luccio, F., Persaud, P., \& Ventura, G. (2023).
+\newblock Ambient {Noise} {Tomography} of the {Lipari} {Volcanic} {Island}
+  ({Southern} {Italy}) {From} a {Dense} {Nodal} {Array}.
+\newblock {\em Geophysical Research Letters\/}, {\em 50\/}(4), e2022GL101022.
+\newline\urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL101022}
+
+\bibitem[{Danskin(1998)}]{danskin_evaluation_1998}
+Danskin, W. (1998).
+\newblock Evaluation of the hydrologic system and selected water-management
+  alternatives in the {Owens} {Valley}, {California}.
+\newblock Report 2370H, Reston, VA.
+\newline\urlprefix\url{https://pubs.usgs.gov/publication/wsp2370H}
+
+\bibitem[{Dixon et~al.(1995)Dixon, Robaudo, Lee, \&
+  Reheis}]{dixon_constraints_1995}
+Dixon, T.~H., Robaudo, S., Lee, J., \& Reheis, M.~C. (1995).
+\newblock Constraints on present-day {Basin} and {Range} deformation from space
+  geodesy.
+\newblock {\em Tectonics\/}, {\em 14\/}(4), 755--772.
+\newblock \_eprint:
+  https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/95TC00931.
+\newline\urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/95TC00931}
+
+\bibitem[{Donnellan et~al.(2017)Donnellan, Arrowsmith, \&
+  DeLong}]{Donnellan2017}
+Donnellan, A., Arrowsmith, R., \& DeLong, S. (2017).
+\newblock Spatio-temporal mapping of plate boundary faults in california using
+  geodetic imaging.
+\newblock {\em Geosciences\/}, {\em 7\/}(1).
+\newline\urlprefix\url{https://www.mdpi.com/2076-3263/7/1/15}
+
+\bibitem[{Fang et~al.(2016)Fang, Zhang, Yao, Allam, Zigone, Ben-Zion, Thurber,
+  \& van~der Hilst}]{fang_new_2016}
+Fang, H., Zhang, H., Yao, H., Allam, A., Zigone, D., Ben-Zion, Y., Thurber, C.,
+  \& van~der Hilst, R.~D. (2016).
+\newblock A new algorithm for three-dimensional joint inversion of body wave
+  and surface wave data and its application to the {Southern} {California}
+  plate boundary region.
+\newblock {\em Journal of Geophysical Research: Solid Earth\/}, {\em 121\/}(5),
+  3557--3569.
+\newblock \_eprint:
+  https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2015JB012702.
+\newline\urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2015JB012702}
+
+\bibitem[{Faulds \& Henry(2008)}]{faulds_tectonic_nodate}
+Faulds, J.~E., \& Henry, C.~D. (2008).
+\newblock Tectonic influences on the spatial and temporal evolution of the
+  {Walker} {Lane}: {An} incipient transform fault along the evolving {Pacific}
+  – {North} {American} plate boundary.
+
+\bibitem[{Faulds et~al.(2005)Faulds, Henry, \& Hinz}]{faulds_kinematics_2005}
+Faulds, J.~E., Henry, C.~D., \& Hinz, N.~H. (2005).
+\newblock Kinematics of the northern {Walker} {Lane}: {An} incipient transform
+  fault along the {Pacific}–{North} {American} plate boundary.
+\newblock {\em Geology\/}, {\em 33\/}(6), 505.
+\newline\urlprefix\url{https://pubs.geoscienceworld.org/geology/article/33/6/505-508/103809}
+
+\bibitem[{Gan et~al.(2000)Gan, Svarc, Savage, \& Prescott}]{gan_strain_2000}
+Gan, W., Svarc, J., Savage, J., \& Prescott, W. (2000).
+\newblock Strain accumulation across the {Eastern} {California} {Shear} {Zone}
+  at latitude 36°30'{N}.
+\newblock {\em Journal of Geophysical Research B: Solid Earth\/}, {\em
+  105\/}(B7), 16229--16236.
+\newline\urlprefix\url{https://pubs.usgs.gov/publication/70022606}
+
+\bibitem[{Hammond et~al.(2011)Hammond, Blewitt, \&
+  Kreemer}]{hammond_block_2011}
+Hammond, W.~C., Blewitt, G., \& Kreemer, C. (2011).
+\newblock Block modeling of crustal deformation of the northern {Walker} {Lane}
+  and {Basin} and {Range} from {GPS} velocities.
+\newblock {\em Journal of Geophysical Research: Solid Earth\/}, {\em
+  116\/}(B4).
+\newblock Publisher: John Wiley \& Sons, Ltd.
+\newline\urlprefix\url{https://doi.org/10.1029/2010JB007817}
+
+\bibitem[{Hammond \& Thatcher(2007)}]{hammond_crustal_2007}
+Hammond, W.~C., \& Thatcher, W. (2007).
+\newblock Crustal deformation across the {Sierra} {Nevada}, northern {Walker}
+  {Lane}, {Basin} and {Range} transition, western {United} {States} measured
+  with {GPS}, 2000–2004.
+\newblock {\em Journal of Geophysical Research: Solid Earth\/}, {\em
+  112\/}(B5).
+\newblock \_eprint:
+  https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2006JB004625.
+\newline\urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2006JB004625}
+
+\bibitem[{Hollett et~al.(1991)Hollett, Danskin, McCaffrey, \&
+  Walti}]{hollett_geology_1991}
+Hollett, K., Danskin, W., McCaffrey, W., \& Walti, C. (1991).
+\newblock Geology and water resources of {Owens} {Valley}, {California}.
+\newblock Report 2370B.
+\newline\urlprefix\url{https://pubs.usgs.gov/publication/wsp2370B}
+
+\bibitem[{Lee et~al.(2014)Lee, Chen, Jordan, Maechling, Denolle, \&
+  Beroza}]{lee_full3d_2014}
+Lee, E., Chen, P., Jordan, T.~H., Maechling, P.~B., Denolle, M.~A., \& Beroza,
+  G.~C. (2014).
+\newblock Full‐3‐{D} tomography for crustal structure in southern
+  {California} based on the scattering‐integral and the adjoint‐wavefield
+  methods.
+\newblock {\em Journal of Geophysical Research: Solid Earth\/}, {\em 119\/}(8),
+  6421--6451.
+\newblock Publisher: Wiley Online Library.
+
+\bibitem[{Lee et~al.(2025)Lee, Douilly, Rabade, \& Lin}]{lee_imaging_2025}
+Lee, H., Douilly, R., Rabade, S., \& Lin, F. (2025).
+\newblock Imaging the {Deformation} {Belt} of {Western} {Hispaniola} {Island}
+  ({Haiti}) {Using} {Multi}‐{Component} {Ambient} {Noise}
+  {Cross}‐{Correlations}.
+\newblock {\em Geophysical Research Letters\/}, {\em 52\/}(4), e2024GL111655.
+\newline\urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL111655}
+
+\bibitem[{Li et~al.(2019)Li, Niu, Yang, \& Tao}]{li_joint_2019}
+Li, G., Niu, F., Yang, Y., \& Tao, K. (2019).
+\newblock Joint {Inversion} of {Rayleigh} {Wave} {Phase} {Velocity}, {Particle}
+  {Motion}, and {Teleseismic} {Body} {Wave} {Data} for {Sedimentary}
+  {Structures}.
+\newblock {\em Geophysical Research Letters\/}, {\em 46\/}(12), 6469--6478.
+\newline\urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL082746}
+
+\bibitem[{Lin et~al.(2013)Lin, Li, Clayton, \&
+  Hollis}]{lin_high-resolution_2013}
+Lin, F.-C., Li, D., Clayton, R.~W., \& Hollis, D. (2013).
+\newblock High-resolution {3D} shallow crustal structure in {Long} {Beach},
+  {California}: {Application} of ambient noise tomography on a dense seismic
+  array.
+\newblock {\em GEOPHYSICS\/}, {\em 78\/}(4), Q45--Q56.
+\newline\urlprefix\url{https://library.seg.org/doi/10.1190/geo2012-0453.1}
+
+\bibitem[{Lin et~al.(2008)Lin, Moschetti, \& Ritzwoller}]{lin_2008}
+Lin, F.-C., Moschetti, M.~P., \& Ritzwoller, M.~H. (2008).
+\newblock Surface wave tomography of the western united states from ambient
+  seismic noise: Rayleigh and love wave phase velocity maps.
+\newblock {\em Geophysical Journal International\/}, {\em 173\/}(1), 281--298.
+\newline\urlprefix\url{https://doi.org/10.1111/j.1365-246X.2008.03720.x}
+
+\bibitem[{Lin et~al.(2009)Lin, Ritzwoller, \& Snieder}]{lin_eikonal_2009}
+Lin, F.-C., Ritzwoller, M.~H., \& Snieder, R. (2009).
+\newblock Eikonal tomography: surface wave tomography by phase front tracking
+  across a regional broad-band seismic array.
+\newblock {\em Geophysical Journal International\/}, {\em 177\/}(3),
+  1091--1110.
+\newline\urlprefix\url{https://academic.oup.com/gji/article-lookup/doi/10.1111/j.1365-246X.2009.04105.x}
+
+\bibitem[{Lin et~al.(2011)Lin, Ritzwoller, Yang, Moschetti, \&
+  Fouch}]{lin_complex_2011}
+Lin, F.-C., Ritzwoller, M.~H., Yang, Y., Moschetti, M.~P., \& Fouch, M.~J.
+  (2011).
+\newblock Complex and variable crustal and uppermost mantle seismic anisotropy
+  in the western {United} {States}.
+\newblock {\em Nature Geoscience\/}, {\em 4\/}(1), 55--61.
+\newline\urlprefix\url{https://www.nature.com/articles/ngeo1036}
+
+\bibitem[{Lin et~al.(2014)Lin, Tsai, \& Schmandt}]{lin_3-d_2014}
+Lin, F.-C., Tsai, V.~C., \& Schmandt, B. (2014).
+\newblock 3-{D} crustal structure of the western {United} {States}: application
+  of {Rayleigh}-wave ellipticity extracted from noise cross-correlations.
+\newblock {\em Geophysical Journal International\/}, {\em 198\/}(2), 656--670.
+\newline\urlprefix\url{https://academic.oup.com/gji/article-lookup/doi/10.1093/gji/ggu160}
+
+\bibitem[{Liu et~al.(2021)Liu, Lin, Huang, Wang, Berg, \&
+  Lin}]{liu_highresolution_2021}
+Liu, C., Lin, F., Huang, H., Wang, Y., Berg, E.~M., \& Lin, C. (2021).
+\newblock High‐resolution 3‐{D} shear wave velocity model of northern
+  {Taiwan} via {Bayesian} joint inversion of {Rayleigh} wave ellipticity and
+  phase velocity with {Formosa} array.
+\newblock {\em Journal of Geophysical Research: Solid Earth\/}, {\em 126\/}(5),
+  e2020JB021610.
+\newblock Publisher: Wiley Online Library.
+
+\bibitem[{Long(2024)}]{long_evolution_2024}
+Long, M.~D. (2024).
+\newblock Evolution, {Modification}, and {Deformation} of {Continental}
+  {Lithosphere}: {Insights} from the {Eastern} {Margin} of {North} {America}.
+\newblock {\em Annual Review of Earth and Planetary Sciences\/}, {\em
+  52\/}(Volume 52, 2024), 549--580.
+\newblock Publisher: Annual Reviews Type: Journal Article.
+\newline\urlprefix\url{https://www.annualreviews.org/content/journals/10.1146/annurev-earth-040522-115229}
+
+\bibitem[{Luo et~al.(2015)Luo, Yang, Xu, Xu, Zhao, \&
+  Wang}]{luo_limitations_2015}
+Luo, Y., Yang, Y., Xu, Y., Xu, H., Zhao, K., \& Wang, K. (2015).
+\newblock On the limitations of interstation distances in ambient noise
+  tomography.
+\newblock {\em Geophysical Journal International\/}, {\em 201\/}(2), 652--661.
+\newline\urlprefix\url{http://academic.oup.com/gji/article/201/2/652/573739/On-the-limitations-of-interstation-distances-in}
+
+\bibitem[{Miller et~al.(2001)Miller, Johnson, Dixon, \&
+  Dokka}]{miller_refined_2001}
+Miller, M.~M., Johnson, D.~J., Dixon, T.~H., \& Dokka, R.~K. (2001).
+\newblock Refined kinematics of the eastern {California} shear zone from {GPS}
+  observations, 1993–1998.
+\newblock {\em Journal of Geophysical Research: Solid Earth\/}, {\em
+  106\/}(B2), 2245--2263.
+\newblock \_eprint:
+  https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2000JB900328.
+\newline\urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2000JB900328}
+
+\bibitem[{Pakiser et~al.(1964)Pakiser, Kane, \&
+  Jackson}]{pakiser_structural_1964}
+Pakiser, L.~C., Kane, M.~F., \& Jackson, W.~H. (1964).
+\newblock Structural geology and volcanism of {Owens} {Valley} region,
+  {California}: {A} geophysical study.
+\newblock Tech. Rep. 2330-7102, US Geological Survey.
+
+\bibitem[{Schulte‐Pelkum et~al.(2020)Schulte‐Pelkum, Ross, Mueller, \&
+  Ben‐Zion}]{schultepelkum_tectonic_2020}
+Schulte‐Pelkum, V., Ross, Z.~E., Mueller, K., \& Ben‐Zion, Y. (2020).
+\newblock Tectonic {Inheritance} {With} {Dipping} {Faults} and {Deformation}
+  {Fabric} in the {Brittle} and {Ductile} {Southern} {California} {Crust}.
+\newblock {\em Journal of Geophysical Research: Solid Earth\/}, {\em 125\/}(8),
+  e2020JB019525.
+\newline\urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JB019525}
+
+\bibitem[{Schwardt et~al.(2022)Schwardt, Pilger, Gaebler, Hupe, \&
+  Ceranna}]{schwardt_natural_2022}
+Schwardt, M., Pilger, C., Gaebler, P., Hupe, P., \& Ceranna, L. (2022).
+\newblock Natural and {Anthropogenic} {Sources} of {Seismic}, {Hydroacoustic},
+  and {Infrasonic} {Waves}: {Waveforms} and {Spectral} {Characteristics} (and
+  {Their} {Applicability} for {Sensor} {Calibration}).
+\newblock {\em Surveys in Geophysics\/}, {\em 43\/}(5), 1265--1361.
+\newline\urlprefix\url{https://link.springer.com/10.1007/s10712-022-09713-4}
+
+\bibitem[{Shapiro et~al.(2005)Shapiro, Campillo, Stehly, \&
+  Ritzwoller}]{shapiro_high-resolution_2005}
+Shapiro, N.~M., Campillo, M., Stehly, L., \& Ritzwoller, M.~H. (2005).
+\newblock High-{Resolution} {Surface}-{Wave} {Tomography} from {Ambient}
+  {Seismic} {Noise}.
+\newblock {\em Science\/}, {\em 307\/}(5715), 1615--1618.
+\newline\urlprefix\url{https://www.science.org/doi/10.1126/science.1108339}
+
+\bibitem[{Share \& Ben-Zion(2018)}]{share_bimaterial_2018}
+Share, P.-E., \& Ben-Zion, Y. (2018).
+\newblock A {Bimaterial} {Interface} {Along} the {Northern} {San} {Jacinto}
+  {Fault} {Through} {Cajon} {Pass}.
+\newblock {\em Geophysical Research Letters\/}, {\em 45\/}(21), 11,622--11,631.
+\newblock \_eprint:
+  https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2018GL079834.
+\newline\urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL079834}
+
+\bibitem[{Sonder \& Jones(1999)}]{sonder_western_1999}
+Sonder, L.~J., \& Jones, C.~H. (1999).
+\newblock {WESTERN} {UNITED} {STATES} {EXTENSION}: {How} the {West} was
+  {Widened}.
+\newblock {\em Annual Review of Earth and Planetary Sciences\/}, {\em
+  27\/}(Volume 27, 1999), 417--462.
+\newblock Publisher: Annual Reviews Type: Journal Article.
+\newline\urlprefix\url{https://www.annualreviews.org/content/journals/10.1146/annurev.earth.27.1.417}
+
+\bibitem[{Stevens et~al.(2013)Stevens, Stone, \&
+  Blakely}]{stevens_structural_2013}
+Stevens, C., Stone, P., \& Blakely, R. (2013).
+\newblock Structural {Evolution} of the {East} {Sierra} {Valley} {System}
+  ({Owens} {Valley} and {Vicinity}), {California}: {A} {Geologic} and
+  {Geophysical} {Synthesis}.
+\newblock {\em Geosciences\/}, {\em 3\/}(2), 176--215.
+\newline\urlprefix\url{https://www.mdpi.com/2076-3263/3/2/176}
+
+\bibitem[{Wang et~al.(2018)Wang, Yang, Basini, Tong, Tape, \&
+  Liu}]{wang_refined_2018}
+Wang, K., Yang, Y., Basini, P., Tong, P., Tape, C., \& Liu, Q. (2018).
+\newblock Refined crustal and uppermost mantle structure of southern
+  {California} by ambient noise adjoint tomography.
+\newblock {\em Geophysical Journal International\/}, {\em 215\/}(2), 844--863.
+\newline\urlprefix\url{https://academic.oup.com/gji/article/215/2/844/5061634}
+
+\bibitem[{Wang et~al.(2019a)Wang, Allam, \& Lin}]{wang_imaging_2019}
+Wang, Y., Allam, A., \& Lin, F. (2019a).
+\newblock Imaging the fault damage zone of the {San} {Jacinto} fault near
+  {Anza} with ambient noise tomography using a dense nodal array.
+\newblock {\em Geophysical Research Letters\/}, {\em 46\/}(22), 12938--12948.
+\newblock Publisher: Wiley Online Library.
+
+\bibitem[{Wang et~al.(2017)Wang, Lin, Schmandt, \& Farrell}]{wang_ambient_2017}
+Wang, Y., Lin, F., Schmandt, B., \& Farrell, J. (2017).
+\newblock Ambient noise tomography across {Mount} {St}. {Helens} using a dense
+  seismic array.
+\newblock {\em Journal of Geophysical Research: Solid Earth\/}, {\em 122\/}(6),
+  4492--4508.
+\newline\urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016JB013769}
+
+\bibitem[{Wang et~al.(2019b)Wang, Lin, \& Ward}]{wang_ambient_2019}
+Wang, Y., Lin, F.-C., \& Ward, K.~M. (2019b).
+\newblock Ambient noise tomography across the {Cascadia} subduction zone using
+  dense linear seismic arrays and double beamforming.
+\newblock {\em Geophysical Journal International\/}, {\em 217\/}(3),
+  1668--1680.
+\newblock Publisher: Oxford University Press.
+
+\bibitem[{Wu et~al.(2021)Wu, Yin, Li, Yang, Wang, Wang, Dong, \&
+  Jia}]{wuinfluence_2021}
+Wu, Z., Yin, H., Li, C., Yang, X., Wang, L., Wang, F., Dong, S., \& Jia, D.
+  (2021).
+\newblock Influence of {Regional} {Erosion} and {Sedimentary} {Loading} on
+  {Fault} {Activities} in {Active} {Fold}-{Thrust} {Belts}: {Insights} {From}
+  {Discrete} {Element} {Simulation} and the {Southern} and {Central} {Longmen}
+  {Shan} {Fold}-{Thrust} {Belt}.
+\newblock {\em Frontiers in Earth Science\/}, {\em Volume 9 - 2021\/}.
+\newline\urlprefix\url{https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2021.659682}
+
+\bibitem[{Yang \& Ritzwoller(2008)}]{yang_characteristics_2008}
+Yang, Y., \& Ritzwoller, M.~H. (2008).
+\newblock Characteristics of ambient seismic noise as a source for surface wave
+  tomography.
+\newblock {\em Geochemistry, Geophysics, Geosystems\/}, {\em 9\/}(2),
+  2007GC001814.
+\newline\urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2007GC001814}
+
+\end{thebibliography}

@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2025/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Ashley_Stroup_finalproject.aux
+The style file: apa-good.bst
+Database file #1: final_project_bib.bib
+Warning--missing institution in danskin_evaluation_1998
+Warning--empty journal in faulds_tectonic_nodate
+Warning--missing institution in hollett_geology_1991
+You've used 40 entries,
+            2804 wiz_defined-function locations,
+            873 strings with 16695 characters,
+and the built_in function-call counts, 27457 in all, are:
+= -- 2137
+> -- 1349
+< -- 11
++ -- 508
+- -- 462
+* -- 2411
+:= -- 4200
+add.period$ -- 132
+call.type$ -- 40
+change.case$ -- 367
+chr.to.int$ -- 40
+cite$ -- 43
+duplicate$ -- 1900
+empty$ -- 1893
+format.name$ -- 586
+if$ -- 5199
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 438
+newline$ -- 252
+num.names$ -- 160
+pop$ -- 756
+preamble$ -- 1
+purify$ -- 314
+quote$ -- 0
+skip$ -- 532
+stack$ -- 0
+substring$ -- 1441
+swap$ -- 1160
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 360
+warning$ -- 3
+while$ -- 176
+width$ -- 0
+write$ -- 581
+(There were 3 warnings)

@@ -1,0 +1,8 @@
+# GMT 6 Session common arguments shelf
+BEGIN GMT 6.6.0
+B	pa1000f200+lElevation(m)
+J	M
+JM	M5.5i
+R	-119.5/-116.5/35.5/37.7
+@L	17
+END
