@@ -11,25 +11,25 @@ I am creating a code that will determine the deepest and shallowest I theortical
 
 ## Final Project Folder
 
-In this, you will find three other folders and a bunch of small files. These small files are relevant to my work, but are not relevant if you are using your own data set.
-
-.ipynb_checkpoints: I dunno
-Figures: Folder with figures not created with my code for the project report
-Maps: Folder with the scripts for creating the figures from the code
-Report: Folder which holds the project report files
-AshleyStroup_GEO242final-project.ipynb: this is the major file! This is what does all my calculations and runs figure scripts
-bb_pairs.txt: contains all possible stations pairs coordinates for the broadbands
-bb_row_longest.csv: contains coordinates for the two broadband stations which create the longest distance station pair
-bb_row_shortest.csv: contains coordinates for the two broadband stations which create the shortest distance station pair
-broadbands.csv: contains the coordinates for each broadband station
-broadbands.kml: file used to extract coordinates for broadbands.csv
-elevation.cpt: color file for figures create in notebook - not needed, artifact
-gmt.history: I dunno
-node_pairs.txt: contains all possible stations pairs coordinates for the nodes
-node_row_longest.csv: contains coordinates for the two node stations which create the longest distance station pair
-node_row_shortest.csv: contains coordinates for the two node stations which create the shortest distance station pair
-nodes.csv: contains the coordinates for each node station
-nodess.kml: file used to extract coordinates for nodes.csv
+In this, you will find three other folders and a bunch of small files. These small files are relevant to my work, but are not relevant if you are using your own data set.\
+\
+.ipynb_checkpoints: I dunno\
+Figures: Folder with figures not created with my code for the project report\
+Maps: Folder with the scripts for creating the figures from the code\
+Report: Folder which holds the project report files\
+AshleyStroup_GEO242final-project.ipynb: this is the major file! This is what does all my calculations and runs figure scripts\
+bb_pairs.txt: contains all possible stations pairs coordinates for the broadbands\
+bb_row_longest.csv: contains coordinates for the two broadband stations which create the longest distance station pair\
+bb_row_shortest.csv: contains coordinates for the two broadband stations which create the shortest distance station pair\
+broadbands.csv: contains the coordinates for each broadband station\
+broadbands.kml: file used to extract coordinates for broadbands.csv\
+elevation.cpt: color file for figures create in notebook - not needed, artifact\
+gmt.history: I dunno\
+node_pairs.txt: contains all possible stations pairs coordinates for the nodes\
+node_row_longest.csv: contains coordinates for the two node stations which create the longest distance station pair\
+node_row_shortest.csv: contains coordinates for the two node stations which create the shortest distance station pair\
+nodes.csv: contains the coordinates for each node station\
+nodess.kml: file used to extract coordinates for nodes.csv\
 
 ## Figures
 
