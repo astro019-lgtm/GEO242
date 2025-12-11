@@ -1,7 +1,7 @@
 # GEO242
 This is to deposit my code I create for the GEO242 final project.
 
-## What am I doing?
+### What am I doing?
 
 I don't know.
 
@@ -48,6 +48,17 @@ nodes_map_friend_jup.sh: plots all node station pairs lines which works in jupyt
 nodes_map_jup.sh: plots all node stations which works in jupyter notebook
 nodes_map_limit_jup.sh: plots all node station pairs and the longest and shortest station pairs
 
+## Report
 
+Ashley_Stroup_finalproject.aux: I dunno, supporting file for the Latex one?
+Ashley_Stroup_finalproject.bbl: same as above
+Ashley_Stroup_finalproject.blg: same as above
+Ashley_Stroup_finalproject.log: same as above
+Ashley_Stroup_finalproject.pdf: the pdf file of my Latex file. This has all my figures that could not upload to the GitHub due to size
+Ashley_Stroup_finalproject.tex: the file I made!!!
+apa-good.bst: the style of citation I used
+final_project_bib.bib: my citation bibtex file
+
+# Tah-Dah!
 
 
